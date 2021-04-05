@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
+import {View, Text, StyleSheet} from 'react-native';
 
 export default function Dashboard() {
   return (
@@ -12,8 +12,8 @@ export default function Dashboard() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-    backgroundColor: '#74F2CE'
-  }
-})
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#74F2CE',
+  },
+});
